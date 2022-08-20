@@ -1,14 +1,13 @@
 flask
 Jinja2
 joblib
-gunicor
+gunicorn
 kiwisolver
 MarkupSafe
-matplotlib
-pandas
-numpy
 
-Pillow
+
+
+
 pipreqs
 pyparsing
 python-dateutil
@@ -22,7 +21,3 @@ threadpoolctl
 urllib3
 Werkzeug
 yarg
-
-
-
-
